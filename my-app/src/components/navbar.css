@@ -1,0 +1,15 @@
+.nav {
+    position: absolute;
+  width: 90%;
+  overflow: hidden;
+  margin:29px 40px 40px 80px;
+}
+
+.btn{
+    padding: 12px 32px;
+    background-color: #fff;
+    color: #000;
+    font-size: 18px;
+    line-height: 18px;
+    text-decoration: none;
+}
