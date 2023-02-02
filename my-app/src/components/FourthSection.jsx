@@ -22,16 +22,7 @@ const FourthSection = () => {
         "https://assets.website-files.com/6233f2ac51d2013d6dca2856/6237e7e8967af5e96b59e6d8_brand16.png"
     ]
 
-    const lg = [
-        "https://assets.website-files.com/6233f2ac51d2013d6dca2856/6237ebd0cad42def98bc9234_fb.svg",
-        "https://assets.website-files.com/6233f2ac51d2013d6dca2856/6237ebcfb87b269833644248_twitter.svg",
-        "https://assets.website-files.com/6233f2ac51d2013d6dca2856/6237ebcfb27f3a7788d236c1_dribble.svg",
-        "https://assets.website-files.com/6233f2ac51d2013d6dca2856/6237ebd022283ac2a9a31783_pinterest.svg",
-        "https://assets.website-files.com/6233f2ac51d2013d6dca2856/6237ebd0d5b51192c0d8eba9_medium.svg",
-        "https://assets.website-files.com/6233f2ac51d2013d6dca2856/6237ebd07994e05c4c458dc7_reddit.svg",
-        "https://assets.website-files.com/6233f2ac51d2013d6dca2856/6237ebd075cf880e0ea2a2b9_vk.svg",
-        "https://assets.website-files.com/6233f2ac51d2013d6dca2856/6237ebd022283a8eb3a3177e_linkedin.svg"
-    ]
+    
     return (
         <Box  fontFamily={'effra, sans-serif'}>
             <Text fontSize='64px' fontWeight={'bold'} color='#000'>Findtrend make +1000 Startup grow</Text>

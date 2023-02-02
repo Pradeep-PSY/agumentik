@@ -14,6 +14,8 @@ import TopSection from './components/TopSection';
 import SecondSection from './components/SecondSection';
 import ThirdSection from './components/ThirdSection';
 import FourthSection from './components/FourthSection';
+import FifthSection from './components/FifthSection';
+import ThreeTierPricing from './components/Pricing';
 
 function App() {
   return (
@@ -23,6 +25,8 @@ function App() {
         <SecondSection />
         <ThirdSection />
         <FourthSection />
+        <FifthSection />
+        <ThreeTierPricing />
       </Box>
     </ChakraProvider>
   );
