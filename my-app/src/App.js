@@ -17,6 +17,7 @@ import FourthSection from './components/FourthSection';
 import FifthSection from './components/FifthSection';
 import ThreeTierPricing from './components/Pricing';
 import EmailSection from './components/EmailSection';
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -28,7 +29,8 @@ function App() {
         <FourthSection />
         <FifthSection />
         <ThreeTierPricing />
-        <EmailSection />:
+        <EmailSection />
+        <Footer />
       </Box>
     </ChakraProvider>
   );
